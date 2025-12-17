@@ -1,0 +1,9 @@
+.card-body {
+  justify-content: bottom;
+}
+
+.product-img {
+  height: 200px;
+  object-fit: contain;
+  padding: 10px;
+}
